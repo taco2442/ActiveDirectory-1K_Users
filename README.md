@@ -2,7 +2,7 @@
 Active directory lab using Virtual box and Windows server 2019. We will be setting up a Domain Controller and adding 1,000 users to manage. 
 
 ## Introduction
-<!--
+<!-
 In this lab I created an environment for Active Directory using Windows Server 2019 and Virtual box. 
 
 
