@@ -3,7 +3,7 @@ Active directory lab using Virtual box, Windows server 2019 and Windows 10.
 
 ## Introduction
 <b>Welcome to the Active Directory lab!</b>
-<br>In this lab, I have created a simulated environment using Windows Server 2019 and VirtualBox to explore Active Directory. The main objective of this lab is to enhance my understanding of Active Directory and provide me with hands-on experience in creating and managing environments. By configuring the client PC and Domain Controller I can route the clients' internet traffic through the Domain Controller, doing this I can establish an improved security framework and exercise greater control over the clients connected to the domain. </br>
+<br>In this lab, I have created a simulated environment using Windows Server 2019 and VirtualBox to explore Active Directory. The main objective of this lab is to enhance my understanding of Active Directory and provide me with hands-on experience in creating and managing environments. By configuring the client and Domain Controller I can route the clients' internet traffic through the Domain Controller, doing this I can establish an improved security framework and exercise greater control over the clients connected to the domain. </br>
  
 This lab will contain:
 * Oracle VirtualBox
@@ -33,6 +33,9 @@ This lab will contain:
 <b>Explanation</b>
 <br>Powershell was used to generate first and last names for 1,000 users. The names were then used to create usernames for the account with all passwords sharing Password1. The users were then added with the information about first name, last name, username, password and enabling the account. The powershell script then created a new OU in Active Directory called USERS_PS and added each new user into the newly created OU. </br>
 <br>![image](https://github.com/taco2442/ActiveDirectory-1K_Users/assets/58244861/4a3536dd-7858-448b-9749-064b5031f062)</br>
+
+redo lab and change names to Testdomain and Client
+
 ## Conclusion
 <b>Lessons learned</b>
 <br>During the creation of this lab I had to troubleshoot with networking, watch more tutorials and redo the creation of the lab, this allowed me to fully wrap my head around the end goal I was trying to achieve. It also made me able to complete the creation of this lab with only following key stages I needed to hit. Starting again on this lab I would take more time to keep a note of key events to make the creation flow smoother. I would </br>
