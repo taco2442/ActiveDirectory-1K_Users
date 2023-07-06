@@ -32,7 +32,7 @@ This lab will contain:
 
 <b>Explanation</b>
 <br>Powershell was used to generate first and last names for 1,000 users. The names were then used to create usernames for the account with all passwords sharing Password1. The users were then added with the information about first name, last name, username, password and enabling the account. The powershell script then created a new OU in Active Directory called USERS_PS and added each new user into the newly created OU. </br>
-<br></br>
+<br>![image](https://github.com/taco2442/ActiveDirectory-1K_Users/assets/58244861/4a3536dd-7858-448b-9749-064b5031f062)</br>
 ## Conclusion
 <b>Lessons learned</b>
 <br>During the creation of this lab I had to troubleshoot with networking, watch more tutorials and redo the creation of the lab, this allowed me to fully wrap my head around the end goal I was trying to achieve. It also made me able to complete the creation of this lab with only following key stages I needed to hit. Starting again on this lab I would take more time to keep a note of key events to make the creation flow smoother. I would </br>
