@@ -31,8 +31,8 @@ This lab will contain:
 * Dynamic Host Configuration Protocol Service</br>
 
 <b>Explanation</b>
-<br>Powershell was used to generate first and last names for 1,000 users. The names were then used to create usernames for the account with all passwords sharing Password1. The users were then added with the information about first name, last name, username, password and enabling the account. The powershell script then created a new OU in Active Directory called Users and added each new user into the newly created OU. </br>
-<br>talk about powershell and active directory commion things </br>
+<br>Powershell was used to generate first and last names for 1,000 users. The names were then used to create usernames for the account with all passwords sharing Password1. The users were then added with the information about first name, last name, username, password and enabling the account. The powershell script then created a new OU in Active Directory called USERS_PS and added each new user into the newly created OU. </br>
+<br></br>
 ## Conclusion
 <b>Lessons learned</b>
 <br>During the creation of this lab I had to troubleshoot with networking, watch more tutorials and redo the creation of the lab, this allowed me to fully wrap my head around the end goal I was trying to achieve. It also made me able to complete the creation of this lab with only following key stages I needed to hit. Starting again on this lab I would take more time to keep a note of key events to make the creation flow smoother. I would </br>
