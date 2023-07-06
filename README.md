@@ -3,7 +3,7 @@ Active directory lab using Virtual box, Windows server 2019 and Windows 10.
 
 ## Introduction
 <b>Welcome to the Active Directory lab!</b>
-<br>In this lab, I have created a simulated environment using Windows Server 2019 and VirtualBox to explore Active Directory. The main objective of this lab is to enhance my understanding of Active Directory and provide me with hands-on experience in creating and managing environments. By configuring the client PC and Domain Controller I can route the clients' internet traffic through the Domain Controller, doing this I can establish a more improved security framework and exercise greater control over the clients connected to our domain. </br>
+<br>In this lab, I have created a simulated environment using Windows Server 2019 and VirtualBox to explore Active Directory. The main objective of this lab is to enhance my understanding of Active Directory and provide me with hands-on experience in creating and managing environments. By configuring the client PC and Domain Controller I can route the clients' internet traffic through the Domain Controller, doing this I can establish an improved security framework and exercise greater control over the clients connected to the domain. </br>
  
 This lab will contain:
 * Oracle VirtualBox
