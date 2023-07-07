@@ -38,7 +38,7 @@ redo lab and change names to Testdomain and Client
 
 ## Conclusion
 <b>Lessons learned</b>
-<br>During the creation of this lab I had to troubleshoot with networking, watch more tutorials and redo the creation of the lab, this allowed me to fully wrap my head around the end goal I was trying to achieve. It also made me able to complete the creation of this lab with only following key stages I needed to hit. Starting again on this lab I would take more time to keep a note of key events to make the creation flow smoother. I would </br>
+<br>During the creation of this lab I had to troubleshoot with networking, watch more tutorials and redo the lab, this allowed me to fully wrap my head around the end goal I was trying to achieve. It also made me able to complete the creation of this lab with only following key stages I needed to hit. Starting again on this lab I would take more time to keep a note of key events to make the creation flow smoother. I would </br>
 
 <b>Closing thoughts</b>
 <br>Having my client set up to route through my Domain Controller to access the internet has given me a better understanding of how to have a more enhanced security framework. I also had more control over clients accessing my domain in Active Directory by centralizing where I can apply security controls. </br>
